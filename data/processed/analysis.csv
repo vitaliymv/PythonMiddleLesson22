@@ -1,0 +1,973 @@
+City,Score
+Aaronhaven,8.0
+Adamsland,10.0
+Adkinsberg,3.0
+Alanport,3.0
+Alexanderfort,10.0
+Alexandrahaven,7.0
+Alexshire,8.0
+Amandaberg,2.0
+Amandamouth,3.0
+Amandastad,7.0
+Amberburgh,9.0
+Ambertown,3.0
+Amyborough,3.0
+Amymouth,5.0
+Andersenberg,10.0
+Andersenton,5.0
+Andersonside,3.0
+Andreamouth,11.0
+Andretown,3.0
+Angelaborough,10.0
+Angelaport,11.0
+Annetteshire,11.0
+Antoniochester,6.0
+Arnoldview,9.0
+Audreyhaven,3.0
+Bakermouth,8.0
+Bakerville,9.0
+Baldwinfort,1.0
+Barrettmouth,1.0
+Barryhaven,6.0
+Benjaminfort,3.0
+Billystad,12.0
+Bookerton,3.0
+Boyertown,9.0
+Bradleyville,5.0
+Brandonport,10.0
+Brettview,6.0
+Briannaport,11.0
+Brianstad,3.0
+Brookeburgh,3.0
+Brooksmouth,3.0
+Bryantville,4.0
+Calebmouth,6.0
+Calhounchester,11.0
+Camposview,3.0
+Cannonmouth,12.0
+Carlaberg,1.0
+Carrieborough,11.0
+Carrollhaven,3.0
+Cassandramouth,10.0
+Castroside,8.0
+Catherinestad,1.0
+Cathyport,9.0
+Chadstad,2.0
+Chambersborough,8.0
+Chambershaven,7.0
+Chambersside,12.0
+Charlesside,3.5
+Chavezborough,12.0
+Chenshire,9.0
+Cherylton,9.0
+Cherylville,11.0
+Christinaland,6.0
+Christinefurt,6.0
+Christinemouth,10.0
+Christineton,3.0
+Christopherhaven,9.5
+Christopherland,9.0
+Christymouth,1.0
+Cindytown,9.0
+Colemouth,4.0
+Conradton,9.0
+Contrerasbury,4.0
+Cooktown,5.0
+Cranehaven,4.0
+Crawfordfurt,10.0
+Crystalville,1.0
+Curtismouth,9.0
+Curtisville,3.0
+Danielborough,4.0
+Danielhaven,1.0
+Daniellehaven,6.0
+Danielleville,5.5
+Danielport,10.0
+Danielshire,3.0
+Danielsside,12.0
+Danielstad,3.0
+Darrellhaven,12.0
+Davidbury,8.0
+Davidside,11.0
+Davilamouth,12.0
+Davisfurt,5.0
+Dawsonfurt,2.0
+Deanstad,3.0
+Deborahberg,11.0
+Deborahmouth,7.0
+Deleonview,7.0
+Delgadochester,7.0
+Deniseview,5.0
+Dennisland,11.0
+Derrickside,6.0
+Destinyhaven,6.0
+Donaldville,12.0
+Donnafort,8.0
+Donnamouth,8.0
+Donnaville,12.0
+Dorseyberg,8.0
+Duncanstad,12.0
+East Aaron,10.0
+East Alexanderfort,7.0
+East Alexaport,12.0
+East Allison,3.0
+East Amber,8.0
+East Beckychester,10.0
+East Bradleyborough,11.0
+East Brianna,11.0
+East Cameronland,3.0
+East Carolside,11.0
+East Christinetown,8.0
+East Cindystad,7.0
+East Corey,11.0
+East Courtneyborough,6.0
+East Danielstad,8.0
+East Davidfort,11.0
+East Dorisstad,4.0
+East Dustinfort,12.0
+East Edwardchester,8.0
+East Emily,5.0
+East Gabrielshire,8.0
+East Harryland,9.0
+East Jacqueline,1.0
+East James,8.0
+East Jamie,3.0
+East Jamieshire,12.0
+East Johnbury,2.0
+East Josephton,2.0
+East Joshua,9.0
+East Joy,12.0
+East Judy,8.0
+East Justin,12.0
+East Kristi,7.0
+East Kyliefort,5.0
+East Larry,3.0
+East Laurafort,6.0
+East Leroy,9.0
+East Mark,2.0
+East Martin,6.5
+East Matthew,1.0
+East Melindafurt,8.0
+East Melissaside,5.0
+East Michael,8.0
+East Michaelton,9.0
+East Miguel,10.0
+East Mikestad,7.0
+East Mistyland,2.0
+East Nancy,3.0
+East Nicole,7.0
+East Nicolefurt,2.0
+East Norman,6.0
+East Paula,3.0
+East Paulside,11.0
+East Randyport,4.0
+East Richardtown,12.0
+East Rickyland,5.0
+East Robertport,11.0
+East Robertshire,1.0
+East Ronald,11.0
+East Ruth,11.0
+East Sheriton,5.0
+East Sonia,6.0
+East Tanyatown,6.0
+East Terrenceside,1.0
+East Tonya,10.0
+East Valerie,9.0
+East Wendy,1.0
+East Zacharystad,6.0
+Eatonview,8.0
+Edwardberg,2.0
+Edwardfort,5.0
+Edwardsfurt,2.0
+Elliottberg,8.0
+Ellishaven,2.0
+Ellisview,1.0
+Emilychester,8.0
+Ericburgh,2.0
+Farrellmouth,12.0
+Feliciabury,3.0
+Fischerfurt,9.0
+Fisherview,10.0
+Fitzgeraldshire,3.0
+Floresside,10.0
+Florestown,7.0
+Flowersfurt,6.0
+Foleyton,12.0
+Francisborough,7.0
+Francisstad,5.0
+Francostad,1.0
+Fryeside,8.0
+Gabrielport,12.0
+Garciaborough,3.0
+Garciahaven,1.0
+Garcialand,2.0
+Garciaview,6.0
+Garyfort,2.0
+Garymouth,9.0
+Garytown,11.0
+Georgeburgh,12.0
+Georgebury,6.0
+Gilbertchester,11.0
+Gillport,3.0
+Gloverbury,7.0
+Gomezfort,8.0
+Gonzalesburgh,12.0
+Gonzalezfurt,11.0
+Grantfort,4.0
+Greenberg,9.5
+Greeneburgh,10.0
+Greenshire,6.0
+Gregorytown,3.0
+Griffinmouth,12.0
+Guzmanland,4.0
+Hallborough,1.0
+Hannahfort,5.0
+Hannahfurt,8.0
+Hardybury,9.0
+Harmonchester,10.0
+Harrisshire,11.0
+Hayesberg,1.0
+Hayeshaven,2.0
+Haynesberg,12.0
+Heatherstad,5.0
+Heathfort,10.0
+Hendricksland,9.0
+Henrystad,11.0
+Hensonmouth,6.0
+Hernandeztown,6.0
+Hessfurt,10.0
+Hicksshire,7.0
+Hillchester,3.0
+Hillville,3.0
+Hollychester,1.0
+Hooverside,4.0
+Howardberg,10.0
+Howardfort,6.0
+Huangport,10.0
+Huntport,7.0
+Jacksonfurt,12.0
+Jacksonville,12.0
+Jacobsonland,10.0
+Jacobston,10.0
+Jaimeshire,1.0
+Jamesbury,7.0
+Jamestown,8.0
+Janiceton,11.0
+Jasonmouth,5.0
+Jasonshire,9.0
+Jeanneton,12.0
+Jeffreybury,1.0
+Jeffreyfurt,1.0
+Jeffreymouth,11.0
+Jeffreyport,8.0
+Jeffreystad,10.0
+Jenkinsmouth,1.0
+Jennaburgh,12.0
+Jenniferstad,5.0
+Jennifertown,12.0
+Jesseburgh,5.0
+Jessicafort,11.0
+Jillton,11.0
+Jimenezside,2.0
+Joelport,5.0
+Johnland,9.0
+Johnsonberg,3.5
+Johnsonfort,7.0
+Johnsonton,3.0
+Joneshaven,8.0
+Jonestown,6.0
+Jonland,5.0
+Josephborough,7.5
+Josephbury,12.0
+Josephstad,12.0
+Joshuabury,2.0
+Joshuachester,3.0
+Joshuamouth,9.0
+Joymouth,11.0
+Juanchester,2.0
+Juanfurt,10.0
+Juanville,11.0
+Judithshire,2.0
+Juliaberg,1.0
+Julieburgh,11.0
+Juliefurt,7.0
+Kathleenchester,2.0
+Kathleentown,10.0
+Kathrynfort,3.0
+Kaylaborough,8.0
+Keithborough,11.0
+Keithstad,5.0
+Kellyhaven,6.0
+Kellyland,10.0
+Kellyport,9.0
+Kellystad,3.0
+Kelseyton,11.0
+Kevinland,10.0
+Khanfurt,10.0
+Kimberlyhaven,8.0
+Kimberlyport,11.0
+Kimberlytown,4.0
+Kimside,2.0
+Kimstad,11.0
+Knightland,10.0
+Kristenfurt,2.0
+Kristinbury,4.0
+Kristinhaven,1.0
+Kristyville,12.0
+Kruegerchester,1.0
+Lake Alyssamouth,2.0
+Lake Amberfort,1.0
+Lake Barry,7.0
+Lake Benjaminside,9.0
+Lake Brandon,9.0
+Lake Brianfurt,7.0
+Lake Brianville,7.0
+Lake Brittanyside,7.0
+Lake Carrie,5.0
+Lake Christine,8.0
+Lake Christopher,9.0
+Lake Christopherborough,9.0
+Lake Cody,2.0
+Lake Edgar,9.0
+Lake Ericshire,6.0
+Lake Erik,1.0
+Lake Erika,3.0
+Lake Ginastad,8.0
+Lake Jacquelineborough,5.0
+Lake Jenniferborough,2.0
+Lake Jessica,10.0
+Lake Joan,11.0
+Lake Johntown,9.0
+Lake Josephstad,7.0
+Lake Justin,12.0
+Lake Katrina,1.0
+Lake Kennethburgh,9.0
+Lake Lancemouth,6.0
+Lake Lauren,3.0
+Lake Lisaberg,5.0
+Lake Lori,2.0
+Lake Lorishire,5.0
+Lake Mariaview,12.0
+Lake Matthew,5.0
+Lake Matthewfort,9.0
+Lake Melissa,11.0
+Lake Michael,9.0
+Lake Michaelland,9.0
+Lake Mitchell,10.0
+Lake Nathan,10.0
+Lake Nicole,8.0
+Lake Patrickport,2.0
+Lake Paul,1.0
+Lake Rachel,7.0
+Lake Randyton,8.0
+Lake Russellton,11.0
+Lake Sandra,7.0
+Lake Sandraton,5.0
+Lake Sara,7.0
+Lake Sarah,11.0
+Lake Seanville,9.0
+Lake Shelby,7.0
+Lake Steven,1.0
+Lake Stevenmouth,11.0
+Lake Tammyfort,11.0
+Lake Thomashaven,8.0
+Lake Tyler,11.0
+Lake Tylerbury,6.0
+Lake Veronicafort,3.0
+Lake Zacharyfort,8.0
+Lauraborough,10.0
+Laurafurt,5.0
+Laurenfurt,10.0
+Lawsonmouth,1.0
+Leahland,9.0
+Leeberg,9.0
+Leonardburgh,7.0
+Lesliefort,3.0
+Lewisfort,12.0
+Lewisport,6.0
+Lindseymouth,5.0
+Loganside,12.0
+Loganview,3.0
+Lopezchester,7.0
+Lopezfurt,10.0
+Lopezview,4.0
+Loweport,5.0
+Luisstad,3.0
+Mahoneyton,1.0
+Margaretfurt,5.0
+Margaretland,10.0
+Mariahaven,10.0
+Marieview,11.0
+Marissamouth,4.0
+Markchester,8.0
+Markside,12.0
+Markville,2.0
+Martinborough,7.0
+Martinchester,2.0
+Martinezborough,11.0
+Martinezmouth,7.0
+Mathisville,8.0
+Matthewburgh,12.0
+Matthewton,6.0
+Maxwellmouth,11.0
+Mcdonaldberg,12.0
+Mcdonaldton,11.0
+Mckinneyland,9.0
+Medinamouth,2.0
+Meganland,10.0
+Meganville,10.0
+Melissahaven,4.0
+Melissaport,2.0
+Mendezport,9.0
+Mercedesfort,4.0
+Meyersfort,2.0
+Michaelberg,10.0
+Michaelstad,10.5
+Michaeltown,4.0
+Michelleborough,6.0
+Michellefort,2.0
+Michellemouth,5.0
+Michelleport,3.0
+Michellestad,12.0
+Millerburgh,10.0
+Millerside,4.0
+Millertown,6.0
+Molinashire,11.0
+Mollychester,11.0
+Mollyside,4.0
+Monicaberg,9.0
+Montesport,7.0
+Mooneyhaven,4.0
+Mooremouth,9.0
+Mooreside,2.0
+Mooreview,5.0
+Morachester,6.0
+Morrisshire,1.0
+Mullenton,1.0
+Murrayside,4.0
+Nashchester,10.0
+Natalieside,5.0
+Natashaview,10.0
+Nathanielchester,6.0
+Nathanton,12.0
+Navarromouth,3.0
+Nealshire,2.0
+New Allison,3.0
+New Amy,6.0
+New Amyburgh,2.0
+New Andrewstad,1.0
+New Angela,8.0
+New Angelaland,7.0
+New Angelatown,1.0
+New Anita,10.0
+New Anitaburgh,3.0
+New Austin,2.0
+New Barbara,5.0
+New Brendahaven,4.0
+New Brittany,6.0
+New Brittanyfurt,8.0
+New Charlotte,8.0
+New Christinahaven,7.0
+New Cindy,12.0
+New Daniel,7.0
+New Darin,5.0
+New David,12.0
+New Davidport,1.0
+New Deborahbury,12.0
+New Donaldfort,10.0
+New Donbury,1.0
+New Douglasland,1.0
+New Edward,7.0
+New Eric,3.0
+New Fred,2.0
+New Georgeland,11.0
+New Glenn,1.0
+New Ian,1.0
+New James,12.0
+New Jayhaven,11.0
+New Jenniferborough,7.0
+New Jessicatown,4.0
+New Jessicaville,6.0
+New Jillianbury,1.0
+New John,12.0
+New Johnmouth,2.0
+New Johnny,8.0
+New Johnnyview,2.0
+New Joseph,12.0
+New Julia,9.0
+New Julie,8.0
+New Justinberg,1.0
+New Katelyn,6.0
+New Katherinefort,3.0
+New Kenneth,12.0
+New Kimberlymouth,8.0
+New Kylemouth,7.0
+New Lisa,9.0
+New Lisashire,11.0
+New Markhaven,1.0
+New Markside,2.0
+New Mary,4.0
+New Matthewborough,4.0
+New Megan,9.0
+New Michaelhaven,5.0
+New Michele,1.0
+New Mitchellport,12.0
+New Natashachester,8.0
+New Nathanielburgh,5.0
+New Nicholas,3.0
+New Pamelaview,3.0
+New Raymondberg,12.0
+New Richardview,6.0
+New Robert,12.0
+New Robin,11.0
+New Scott,2.0
+New Shanemouth,7.0
+New Sherry,5.0
+New Susan,2.0
+New Susanview,2.0
+New Terri,9.0
+New Theresa,12.0
+New Thomas,9.5
+New Veronica,10.0
+New Vincentview,9.0
+New Wesleyburgh,8.0
+New Zachary,4.0
+Newmanbury,3.0
+Nicholasborough,2.0
+Nicholasfort,12.0
+Nicholston,2.0
+Nicolefort,12.0
+Noahborough,1.0
+Noahhaven,5.0
+Noahville,2.0
+Norrisview,11.0
+North Alan,2.0
+North Alexandria,1.0
+North Amanda,1.0
+North Amandamouth,10.0
+North Amber,12.0
+North Anne,10.0
+North Antonio,7.0
+North Ashley,10.0
+North Ashleyshire,3.0
+North Bethany,9.0
+North Brianside,8.0
+North Charlesshire,12.0
+North Charlotteville,9.0
+North Christina,3.0
+North Christinaborough,9.0
+North Christine,7.0
+North Chrisview,11.0
+North Craig,8.0
+North Crystal,6.0
+North Curtismouth,12.0
+North Daltonfurt,5.0
+North Danielle,7.0
+North Danielshire,9.0
+North Danielview,5.0
+North Donald,7.0
+North Dustin,1.0
+North Erinshire,1.0
+North Erinside,9.0
+North Frank,12.0
+North Garrettfort,12.0
+North James,1.0
+North Jasmine,6.0
+North Jeffery,7.0
+North Jeremy,3.0
+North Jerryberg,5.0
+North Jessicaview,2.0
+North Jimmy,12.0
+North John,12.0
+North Justintown,10.0
+North Katelyn,8.0
+North Kenneth,7.0
+North Kevinmouth,2.0
+North Leahview,3.0
+North Lindaberg,10.0
+North Lisaville,2.0
+North Markchester,12.0
+North Maryland,4.0
+North Matthew,4.0
+North Michaelhaven,6.0
+North Monicamouth,2.0
+North Pamelaport,2.0
+North Paula,9.0
+North Peter,8.0
+North Phillipfurt,4.0
+North Robert,12.0
+North Ryan,9.0
+North Ryanside,7.0
+North Sara,5.0
+North Sarah,8.0
+North Stefaniebury,9.0
+North Stephanieside,6.0
+North Teresastad,7.0
+North Tiffany,10.0
+North Tiffanyland,10.0
+North Tiffanyshire,11.0
+North Tim,5.0
+North Timothy,8.0
+North Tyler,10.0
+North Tyrone,5.0
+North Valerie,6.0
+North Vanessaburgh,6.0
+North Vincent,12.0
+North Virginia,4.0
+North Williamchester,3.0
+Nunezville,3.0
+Ochoatown,11.0
+Oliviamouth,3.0
+Ortizton,1.0
+Owenport,3.0
+Padillaburgh,1.0
+Padillaton,2.0
+Pamelatown,4.0
+Parkerbury,10.0
+Patelmouth,5.0
+Patelshire,7.5
+Patrickhaven,3.0
+Pattersonchester,1.0
+Paulbury,5.0
+Penningtonmouth,7.0
+Pereztown,11.0
+Perkinsberg,5.0
+Phamborough,7.0
+Phillipsfort,12.0
+Poolehaven,4.0
+Poolemouth,5.0
+Popeland,11.0
+Port Alexandermouth,7.0
+Port Aliciamouth,11.0
+Port Alishaton,6.0
+Port Arthurfurt,7.0
+Port Brittanybury,11.0
+Port Carlosfurt,6.0
+Port Christophertown,2.0
+Port Crystal,12.0
+Port Cynthiafurt,4.0
+Port Daniel,7.0
+Port Danielle,6.0
+Port Danielleton,6.0
+Port David,5.0
+Port Dianemouth,1.0
+Port Donald,1.0
+Port Dylan,3.0
+Port Elizabethmouth,4.0
+Port Erinside,1.0
+Port Feliciaburgh,10.0
+Port Glennmouth,6.0
+Port Gregoryfurt,12.0
+Port Hunterbury,4.0
+Port Jacqueline,7.0
+Port Janice,2.0
+Port John,10.0
+Port Johnburgh,8.0
+Port Joshuashire,2.0
+Port Julieborough,5.0
+Port Karenfort,12.0
+Port Katherine,12.0
+Port Kaylafurt,1.0
+Port Kimberly,8.0
+Port Kimfort,3.0
+Port Laura,8.0
+Port Laurenborough,10.0
+Port Leslieborough,5.0
+Port Lindsey,5.0
+Port Mandyborough,5.0
+Port Matthew,4.0
+Port Melaniestad,7.0
+Port Melissa,10.0
+Port Melissaton,10.0
+Port Michael,7.666666666666667
+Port Michelleberg,12.0
+Port Nichole,1.0
+Port Pamelamouth,11.0
+Port Paulchester,1.0
+Port Peter,1.0
+Port Peterfort,9.0
+Port Robertchester,12.0
+Port Sarah,5.0
+Port Selena,10.0
+Port Stephanieside,6.0
+Port Stevenfort,7.0
+Port Tanya,12.0
+Port Taramouth,12.0
+Port Teresaton,12.0
+Port Tiffany,1.0
+Port Timothy,2.0
+Port Timothytown,1.0
+Port Travis,7.0
+Port Travisberg,5.0
+Port Troyburgh,5.0
+Port Wanda,7.0
+Port Wayneland,7.0
+Port Whitneymouth,5.0
+Port William,4.0
+Rachelborough,5.0
+Rachelport,1.0
+Rachelstad,9.0
+Ramirezborough,5.5
+Ramirezshire,8.0
+Ramosberg,1.0
+Randychester,11.0
+Rayport,11.0
+Rebeccafort,5.0
+Reedville,7.0
+Reginaldside,6.0
+Reyesshire,9.0
+Reynoldsfort,6.0
+Richardmouth,7.0
+Richmondshire,6.0
+Roachmouth,2.0
+Robertborough,2.0
+Robertbury,3.0
+Robertsonborough,5.0
+Robertsville,8.0
+Rodriguezburgh,1.0
+Rodriguezville,9.0
+Rogershaven,5.0
+Rogersville,5.0
+Rojasshire,2.0
+Rosariomouth,11.0
+Ryanfort,6.0
+Ryanport,6.0
+Sallyside,3.0
+Samuelmouth,9.0
+Sanchezport,12.0
+Sanchezview,3.0
+Sandersfort,8.0
+Sandrafurt,12.0
+Sandraland,5.0
+Sandraview,9.0
+Sandraville,10.0
+Sanfordview,5.0
+Santiagofurt,4.0
+Santiagoview,4.0
+Sarahchester,7.0
+Sarahmouth,9.0
+Sarahview,8.0
+Saramouth,6.0
+Schmidtchester,4.0
+Schmidtport,3.0
+Schmidtshire,12.0
+Scottborough,11.0
+Scottburgh,9.0
+Selenaport,1.0
+Selenaview,8.0
+Shannonmouth,8.0
+Sharitown,6.0
+Sharonfurt,10.0
+Shawfurt,4.0
+Sheilaburgh,3.0
+Simpsonberg,10.0
+Simpsonton,7.0
+Simsbury,11.0
+Smithfort,3.5
+Smithstad,1.0
+Smithview,2.0
+Snowmouth,6.0
+Sotohaven,5.0
+South Alexander,2.0
+South Alison,4.0
+South Amanda,4.0
+South Ashleyton,11.0
+South Benjamin,9.0
+South Blake,6.0
+South Brenda,12.0
+South Bryan,10.0
+South Candacefurt,12.0
+South Charlesmouth,3.0
+South Chase,11.0
+South Chelsey,5.0
+South Chelseyview,6.0
+South Christophermouth,1.0
+South Crystal,9.0
+South Danielhaven,10.0
+South Danielleburgh,12.0
+South David,12.0
+South Davidport,1.0
+South Deborah,11.0
+South Debratown,10.0
+South Diamond,1.0
+South Donna,9.0
+South Elizabeth,3.0
+South Erinview,8.0
+South Gailside,10.0
+South George,10.0
+South Henry,4.0
+South Jeffrey,4.0
+South Jeffreymouth,5.0
+South Jenniferview,7.0
+South Jerry,3.0
+South Joseph,1.0
+South Joshua,11.0
+South Joshuatown,11.0
+South Judy,2.0
+South Kennethstad,7.0
+South Kerriport,4.0
+South Kimberly,5.0
+South Laurachester,10.0
+South Lawrencemouth,3.0
+South Marieport,12.0
+South Mark,5.0
+South Michaelbury,4.0
+South Michaelfort,3.0
+South Michelle,7.0
+South Nathanstad,7.0
+South Nicholasburgh,12.0
+South Ninafort,5.0
+South Oliviaton,12.0
+South Patriciatown,2.0
+South Patrick,2.0
+South Raymondmouth,7.0
+South Rebeccafort,2.0
+South Richard,11.0
+South Rita,2.0
+South Roseshire,1.0
+South Samanthafurt,2.0
+South Samanthaport,3.0
+South Scottport,9.0
+South Sean,6.0
+South Stephenfurt,1.0
+South Stephenmouth,1.0
+South Steven,7.0
+South Stevenstad,1.0
+South Tanner,3.0
+South Tanya,8.0
+South Thomas,5.0
+South Timothyburgh,10.0
+South Todd,9.0
+South Victoria,3.0
+South Vincent,3.0
+South Wendy,8.0
+Sparksside,12.0
+Spearsville,7.0
+Stephaniemouth,11.0
+Stephenschester,10.0
+Stephenville,2.0
+Stevenborough,12.0
+Stevensfurt,1.0
+Stewartfurt,2.0
+Stewartland,5.0
+Stewartmouth,7.0
+Stewartshire,10.0
+Stewarttown,12.0
+Stokesburgh,4.0
+Tannerton,7.0
+Taylortown,10.0
+Taylorville,6.0
+Teresaland,10.0
+Terrellberg,8.0
+Thomashaven,12.0
+Thomasmouth,2.0
+Thomasside,8.0
+Thompsonbury,7.0
+Timothyburgh,4.0
+Timothymouth,10.0
+Timothyside,4.0
+Timothyton,9.0
+Toddside,1.0
+Tonyborough,5.0
+Tracybury,11.0
+Trevinoborough,2.0
+Tuckerborough,12.0
+Tuckerfort,1.0
+Turnerfurt,8.0
+Tylerburgh,10.0
+Tylerville,10.0
+Valeriebury,2.0
+Vanessaland,4.0
+Victoriaburgh,9.0
+Vincenttown,6.0
+Wadeton,5.0
+Walkermouth,4.0
+Walkerside,11.0
+Wardshire,12.0
+Warrenland,6.0
+Wayneview,9.0
+Webbmouth,11.0
+Websterport,11.0
+Websterside,6.0
+Weissburgh,1.0
+Welchport,8.0
+Wellshaven,7.0
+Wendyburgh,8.0
+Wendyshire,8.0
+West Adam,12.0
+West Alberthaven,7.0
+West Amanda,9.0
+West Angelicamouth,12.0
+West Annaton,11.0
+West Arthurton,5.0
+West Brandy,12.0
+West Brian,10.0
+West Candicemouth,4.0
+West Christopherport,12.0
+West Crystal,8.0
+West Cynthia,9.0
+West David,11.0
+West Denise,8.0
+West Destiny,4.0
+West Donaldhaven,3.0
+West Elizabeth,5.0
+West George,10.0
+West Georgeland,4.0
+West Heidifort,10.0
+West James,9.5
+West Jamesshire,9.0
+West Jeannefort,2.0
+West Jeffreyburgh,5.0
+West Jennifer,7.0
+West Jenniferland,12.0
+West Jennifertown,11.0
+West Jeremy,1.0
+West Jessica,3.0
+West Joanna,5.0
+West Jonathan,1.0
+West Joshuafort,6.0
+West Justinfort,8.0
+West Katherine,7.0
+West Kathytown,5.0
+West Kayla,1.0
+West Keith,2.0
+West Kelly,7.0
+West Kerrymouth,10.0
+West Kevintown,5.0
+West Kimberlytown,11.0
+West Kristenhaven,6.0
+West Laura,10.0
+West Lindsay,11.0
+West Lisa,8.0
+West Maurice,12.0
+West Michael,4.0
+West Michaelmouth,6.0
+West Mollyton,4.0
+West Patrickberg,10.0
+West Rebeccaberg,12.0
+West Rebeccaton,8.0
+West Richardside,2.0
+West Robertburgh,7.0
+West Robertport,4.0
+West Scott,3.5
+West Scottchester,8.0
+West Shannonshire,4.0
+West Sharon,4.0
+West Shawn,12.0
+West Sherry,2.0
+West Steven,2.0
+West Theresatown,3.0
+West Toddport,9.0
+Whitestad,12.0
+Whitetown,11.0
+Whitneyland,5.0
+Williamland,4.0
+Williamport,5.0
+Williamschester,2.0
+Williamsonmouth,11.0
+Williamsville,6.0
+Williamtown,9.0
+Wolfefurt,2.0
+Woodchester,9.0
+Zacharyberg,3.0
+Zacharychester,9.0
