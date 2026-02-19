@@ -21,7 +21,7 @@ def generate_friends_csv(path="data/raw/friends.csv"):
     df.to_csv(path, index=False)
     print(f"Friends data saved to {path}")
 
-def generate_students_csv(path="data/raw/students.csv", n=1000):
+def generate_students_csv(path="data/raw/students.csv", n=10000):
     data = []
 
     for _ in range(n):

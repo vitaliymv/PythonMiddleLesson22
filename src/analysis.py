@@ -1,12 +1,20 @@
 import pandas as pd
 from faker import Faker
 import os
-
+import random
 fake = Faker()
 
+random.seed(42)
+
 def add_columns(df: pd.DataFrame):
-    df["Hours_Study"] = [fake.random_int(1, 5) for _ in range(len(df))]
-    df["Projects"] = [fake.random_int(0, 3) for _ in range(len(df))]
+    df["Hours_Study"] = [
+        random.randint(1, 5)
+        for _ in range(len(df))
+    ]
+    df["Projects"] = [
+        random.randint(0, 3)
+        for _ in range(len(df))
+    ]
     return df
 
 def detect_outliers(df: pd.DataFrame, column="Score"):
