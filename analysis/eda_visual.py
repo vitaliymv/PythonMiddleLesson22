@@ -8,6 +8,8 @@ df = add_columns(df)
 
 df["Efficiency"] = df["Score"] / df["Hours_Study"]
 
+df.to_csv("../data/processed/students_with_features.csv", index=False)
+
 sns.set(style="whitegrid")
 
 plt.figure()
